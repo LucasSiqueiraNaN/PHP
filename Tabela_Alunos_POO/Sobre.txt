@@ -1,0 +1,3 @@
+Entre com os dados de 10 alunos de uma classe, recebendo as informações como nome e uma nota do aluno.
+Armazene estes dados em um vetor. Ao final do programa mostrar em uma tabela a média de notasse da cla, 
+e o nome do aluno que obteve maior nota. A tabela deve ser apresentada da maior nota para a menor.
